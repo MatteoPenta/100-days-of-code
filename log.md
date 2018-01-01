@@ -16,3 +16,11 @@
 **Thoughts** CodeWars is a fantastic way to test your coding skills, while learning new concepts and better ways to write code.
 
 **Link(s) to work**
+
+### Day 2: January 1, Monday
+
+**Today's Progress**: Sketched a website that will help me take note of my daily progress as I study for my university admission test. Requirements: HTML and CSS, Js, one database language (which I'll have to learn for the purpose of this project). Solved a few CodeWars Katas after that.
+
+**Thoughts** I didn't have much time to code as I was busy celebrating the new year, so I mostly did some planning for my future projects.
+
+**Link(s) to work**
