@@ -24,3 +24,14 @@
 **Thoughts** I didn't have much time to code as I was busy celebrating the new year, so I mostly did some planning for my future projects.
 
 **Link(s) to work**
+
+### Day 3: January 2, Tuesdauy
+
+**Today's Progress**: Went through some Javascript challenges on the freeCodeCamp website and had some real fun trying to solve them.
+
+### Day 4: January 1, Monday
+
+**Today's Progress**: Continued the Javascript30 challenge and built a HTML5 Canvas that lets you draw a multicoloured line, making some changes over the Javascript30 version.
+
+**Link(s) to work**
+https://codepen.io/MatteoPenta/pen/goGOJy?editors=1111
