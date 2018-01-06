@@ -25,13 +25,26 @@
 
 **Link(s) to work**
 
-### Day 3: January 2, Tuesdauy
+### Day 3: January 2, Tuesday
 
 **Today's Progress**: Went through some Javascript challenges on the freeCodeCamp website and had some real fun trying to solve them.
 
-### Day 4: January 1, Monday
+### Day 4: January 4, Thursday
 
 **Today's Progress**: Continued the Javascript30 challenge and built a HTML5 Canvas that lets you draw a multicoloured line, making some changes over the Javascript30 version.
 
 **Link(s) to work**
 https://codepen.io/MatteoPenta/pen/goGOJy?editors=1111
+
+### Day 5: January 5, Friday
+
+**Today's Progress**: didn’t have much time to code today, so I followed some lessons from the JavaScript course on the SoloLearn app. Great app + fantastic way to code on the go!
+
+### Day 6: January 6, Saturday
+
+**Today's Progress**: Made a few big improvements to my Solar System game, including a spawn system for every kind of rock. Also, I made the code for future functionalities.
+
+**Thoughts** It feels damn incredible to make some serious progress in a project I deemed too hard for my current level.
+
+**Link(s) to work**
+https://matteopenta.github.io/Solar-System/
