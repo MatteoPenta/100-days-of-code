@@ -48,3 +48,10 @@ https://codepen.io/MatteoPenta/pen/goGOJy?editors=1111
 
 **Link(s) to work**
 https://matteopenta.github.io/Solar-System/
+
+### Day 7: January 7, Sunday
+
+**Today's Progress**: Worked on the Solar System project: started using constructors and inheritance, implemented the first draft of a collision detection system.
+
+**Link(s) to work**
+https://matteopenta.github.io/Solar-System/
