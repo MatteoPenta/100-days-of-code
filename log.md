@@ -55,3 +55,7 @@ https://matteopenta.github.io/Solar-System/
 
 **Link(s) to work**
 https://matteopenta.github.io/Solar-System/
+
+### Day 8: January 8, Monday
+
+**Today's Progress**: Not much today. Started the Web Developer Bootcamp course on Udemy, which looks quite interesting.
