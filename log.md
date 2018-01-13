@@ -59,3 +59,35 @@ https://matteopenta.github.io/Solar-System/
 ### Day 8: January 8, Monday
 
 **Today's Progress**: Not much today. Started the Web Developer Bootcamp course on Udemy, which looks quite interesting.
+
+### Day 9: January 9, Tuesday
+
+**Today's Progress**: Followed a few lessons from the Web Developer Bootcamp, really focusing on the basics again to grasp anything I didn’t quite get at first.
+
+### Day 10: January 10, Wednesday
+
+**Today's Progress**: started working on the rotation of the planets in my Javascript game, Solar System, but I couldn't make it work. I'll try again tomorrow! I also completed a few challenges on freeCodeCamp, which is always a useful resource, and followed some lessons from the HTML section on the Web Developer Bootcamp course.
+
+
+### Day 11: January 11, Thursday
+
+**Today's Progress**: Followed some lessons on the Web Developer Bootcamp course. 
+
+**Thoughts** I'd really like to get more involved in the coding community.
+
+### Day 12: January 12, Friday
+
+**Today's Progress**: starting the day with a nice achievement. Finally, my planets can rotate and move freely (although I'll probably change the logics behind it).
+
+**Link(s) to work**
+https://matteopenta.github.io/Solar-System/
+
+### Day 12: January 12, Friday
+
+**Today's Progress**: Now collision detection with the canvas borders and with the other planets works, even though it isn’t precise.
+
+**Link(s) to work**
+https://matteopenta.github.io/Solar-System/
+
+
+
