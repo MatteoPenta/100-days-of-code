@@ -71,7 +71,7 @@ https://matteopenta.github.io/Solar-System/
 
 ### Day 11: January 11, Thursday
 
-**Today's Progress**: Followed some lessons on the Web Developer Bootcamp course. 
+**Today's Progress**: Followed some lessons on the Web Developer Bootcamp course.
 
 **Thoughts** I'd really like to get more involved in the coding community.
 
@@ -82,12 +82,17 @@ https://matteopenta.github.io/Solar-System/
 **Link(s) to work**
 https://matteopenta.github.io/Solar-System/
 
-### Day 12: January 12, Friday
+### Day 13: January 13, Saturday
 
 **Today's Progress**: Now collision detection with the canvas borders and with the other planets works, even though it isn’t precise.
 
 **Link(s) to work**
 https://matteopenta.github.io/Solar-System/
 
+### Day 14: January 14, Sunday
 
+**Today's Progress**: Went ahead in the WDB course on Udemy + made some minor changes to my JS game, like making it full screen and switching to HSL colors for the canvas gradient.
+Still haven't fixed the collisions between rocks, though.
 
+**Link(s) to work**
+https://matteopenta.github.io/Solar-System/
